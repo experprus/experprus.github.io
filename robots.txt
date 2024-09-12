@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://experprus.github.io/sitemap.html.gz
+Sitemap: https://experprus.github.io/app/sitemap.html.gz
+Sitemap: https://experprus.github.io/assets/sitemap.html.gz
+Sitemap: https://experprus.github.io/css/sitemap.html.gz
+Sitemap: https://experprus.github.io/includes/sitemap.html.gz
+Sitemap: https://experprus.github.io/item/sitemap.html.gz
+Sitemap: https://experprus.github.io/src/sitemap.html.gz
